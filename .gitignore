@@ -1,0 +1,6 @@
+data/
+models/mnist_cnn.pth
+prediction_result.png
+__pycache__/
+*.pyc
+.env
